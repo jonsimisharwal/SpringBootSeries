@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- bean definitions here -->
+    <bean id="jonsibean" class="com.example.demo.GreetingService"></bean>
+    <bean id="EmailNotificationService" class="com.example.loosecoupling.EmailNotificationService"></bean>
+    <bean id="UserServiceman" class="com.example.loosecoupling.UserService">
+        <property name="notificationService" ref="EmailNotificationService"/>
+    </bean>
+
+
+</beans>

@@ -1,3 +1,19 @@
+<<<<<<< HEAD
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+.kotlin
+
+### IntelliJ IDEA ###
+.idea/modules.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/libraries/
+*.iws
+*.iml
+*.ipr
+=======
 .idea/
 *.iml
 
@@ -10,6 +26,7 @@ out/
 .kotlin
 =======
 >>>>>>> 9ba76c44f55c96fcfcef2c08f23a5e1245ac1bc5
+>>>>>>> 07875eef311882ec4fa6eaf1759da896e96dca98
 
 ### Eclipse ###
 .apt_generated
@@ -19,9 +36,12 @@ out/
 .settings
 .springBeans
 .sts4-cache
+<<<<<<< HEAD
+=======
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
+>>>>>>> 07875eef311882ec4fa6eaf1759da896e96dca98
 
 ### NetBeans ###
 /nbproject/private/
@@ -29,6 +49,12 @@ bin/
 /dist/
 /nbdist/
 /.nb-gradle/
+<<<<<<< HEAD
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+=======
+>>>>>>> 07875eef311882ec4fa6eaf1759da896e96dca98
 
 ### VS Code ###
 .vscode/
