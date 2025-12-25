@@ -3,17 +3,8 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-
     <groupId>org.example</groupId>
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <artifactId>projectspringcrud</artifactId>
-=======
-    <artifactId>firstspring</artifactId>
->>>>>>> e8b2d6b767fb455097972f55c2b90fcb9f4e0cf2
-=======
-    <artifactId>firstspring</artifactId>
->>>>>>> e8b2d6b767fb455097972f55c2b90fcb9f4e0cf2
+    <artifactId>firstspring</artifactId> <!-- or 'projectspringcrud' depending on which is correct -->
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -21,42 +12,19 @@
         <maven.compiler.target>25</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+
     <dependencies>
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> e8b2d6b767fb455097972f55c2b90fcb9f4e0cf2
-    <!-- https://mvnrepository.com/artifact/org.springframework/spring-core -->
-    <dependency>
-        <groupId>org.springframework</groupId>
-        <artifactId>spring-core</artifactId>
-        <version>7.0.2</version>
-    </dependency>
-<<<<<<< HEAD
->>>>>>> e8b2d6b767fb455097972f55c2b90fcb9f4e0cf2
-=======
->>>>>>> e8b2d6b767fb455097972f55c2b90fcb9f4e0cf2
-        <!-- https://mvnrepository.com/artifact/org.springframework/spring-context -->
-        <dependency>
-            <groupId>org.springframework</groupId>
-            <artifactId>spring-context</artifactId>
-            <version>7.0.2</version>
-        </dependency>
-<<<<<<< HEAD
-<<<<<<< HEAD
         <!-- https://mvnrepository.com/artifact/org.springframework/spring-core -->
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-core</artifactId>
             <version>7.0.2</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.springframework/spring-context -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context</artifactId>
+            <version>7.0.2</version>
+        </dependency>
     </dependencies>
-
-=======
-    </dependencies>
->>>>>>> e8b2d6b767fb455097972f55c2b90fcb9f4e0cf2
-=======
-    </dependencies>
->>>>>>> e8b2d6b767fb455097972f55c2b90fcb9f4e0cf2
 </project>
