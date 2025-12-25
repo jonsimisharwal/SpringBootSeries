@@ -1,0 +1,16 @@
+package com.example.demo;
+
+import com.example.loosecoupling.NotificationService;
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+@ComponentScan(basePackages = "com.example")
+public class Appconfig {
+
+    @Bean(initMethod = "init",destroyMethod = "cleanup")
+    public LifeCycleBean lifeCycleBean(NotificationService notificationService){
+        return new LifeCycleBean(notificationService);
+    }
+}
