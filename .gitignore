@@ -1,7 +1,15 @@
 <<<<<<< HEAD
+
+=======
+>>>>>>> e8b2d6b767fb455097972f55c2b90fcb9f4e0cf2
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 >>>>>>> 3704f0a18a0e402613b8c70515d0da4ee0b12d1a
+<<<<<<< HEAD
+>>>>>>> e8b2d6b767fb455097972f55c2b90fcb9f4e0cf2
+=======
+>>>>>>> e8b2d6b767fb455097972f55c2b90fcb9f4e0cf2
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
@@ -18,6 +26,11 @@ target/
 *.ipr
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> e8b2d6b767fb455097972f55c2b90fcb9f4e0cf2
 =======
 .idea/
 *.iml
@@ -33,6 +46,10 @@ out/
 >>>>>>> 9ba76c44f55c96fcfcef2c08f23a5e1245ac1bc5
 >>>>>>> 07875eef311882ec4fa6eaf1759da896e96dca98
 >>>>>>> 3704f0a18a0e402613b8c70515d0da4ee0b12d1a
+<<<<<<< HEAD
+>>>>>>> e8b2d6b767fb455097972f55c2b90fcb9f4e0cf2
+=======
+>>>>>>> e8b2d6b767fb455097972f55c2b90fcb9f4e0cf2
 
 ### Eclipse ###
 .apt_generated
@@ -46,11 +63,20 @@ out/
 =======
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> e8b2d6b767fb455097972f55c2b90fcb9f4e0cf2
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 >>>>>>> 07875eef311882ec4fa6eaf1759da896e96dca98
 >>>>>>> 3704f0a18a0e402613b8c70515d0da4ee0b12d1a
+<<<<<<< HEAD
+>>>>>>> e8b2d6b767fb455097972f55c2b90fcb9f4e0cf2
+=======
+>>>>>>> e8b2d6b767fb455097972f55c2b90fcb9f4e0cf2
 
 ### NetBeans ###
 /nbproject/private/
@@ -68,8 +94,19 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 =======
+<<<<<<< HEAD
+<<<<<<< HEAD
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+=======
 >>>>>>> 07875eef311882ec4fa6eaf1759da896e96dca98
 >>>>>>> 3704f0a18a0e402613b8c70515d0da4ee0b12d1a
+>>>>>>> e8b2d6b767fb455097972f55c2b90fcb9f4e0cf2
+=======
+>>>>>>> 07875eef311882ec4fa6eaf1759da896e96dca98
+>>>>>>> 3704f0a18a0e402613b8c70515d0da4ee0b12d1a
+>>>>>>> e8b2d6b767fb455097972f55c2b90fcb9f4e0cf2
 
 ### VS Code ###
 .vscode/
