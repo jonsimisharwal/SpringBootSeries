@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <<<<<<< HEAD
 
 =======
@@ -54,6 +54,7 @@ out/
 
 ### Eclipse ###
 =======
+>>>>>>> c855f432dc7ea674f7a356f86ebcfefbc1bac3d0
 HELP.md
 target/
 .mvn/wrapper/maven-wrapper.jar
@@ -61,7 +62,10 @@ target/
 !**/src/test/**/target/
 
 ### STS ###
+<<<<<<< HEAD
+=======
 >>>>>>> ExceptionHandling
+>>>>>>> c855f432dc7ea674f7a356f86ebcfefbc1bac3d0
 .apt_generated
 .classpath
 .factorypath
@@ -69,6 +73,8 @@ target/
 .settings
 .springBeans
 .sts4-cache
+<<<<<<< HEAD
+=======
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -89,13 +95,17 @@ bin/
 =======
 >>>>>>> e8b2d6b767fb455097972f55c2b90fcb9f4e0cf2
 =======
+>>>>>>> c855f432dc7ea674f7a356f86ebcfefbc1bac3d0
 
 ### IntelliJ IDEA ###
 .idea
 *.iws
 *.iml
 *.ipr
+<<<<<<< HEAD
+=======
 >>>>>>> ExceptionHandling
+>>>>>>> c855f432dc7ea674f7a356f86ebcfefbc1bac3d0
 
 ### NetBeans ###
 /nbproject/private/
@@ -103,6 +113,8 @@ bin/
 /dist/
 /nbdist/
 /.nb-gradle/
+<<<<<<< HEAD
+=======
 <<<<<<< HEAD
 <<<<<<< HEAD
 build/
@@ -134,10 +146,14 @@ build/
 ### Mac OS ###
 .DS_Store
 =======
+>>>>>>> c855f432dc7ea674f7a356f86ebcfefbc1bac3d0
 build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
 ### VS Code ###
 .vscode/
+<<<<<<< HEAD
+=======
 >>>>>>> ExceptionHandling
+>>>>>>> c855f432dc7ea674f7a356f86ebcfefbc1bac3d0

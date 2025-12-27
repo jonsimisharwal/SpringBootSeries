@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
@@ -30,6 +32,7 @@
     </dependencies>
 </project>
 =======
+>>>>>>> c855f432dc7ea674f7a356f86ebcfefbc1bac3d0
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
@@ -40,10 +43,17 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.example</groupId>
+<<<<<<< HEAD
+    <artifactId>JDBC-Demo</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>JDBC-Demo</name>
+    <description>JDBC-Demo</description>
+=======
     <artifactId>FirstSpringBoot</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>FirstSpringBoot</name>
     <description>FirstSpringBoot</description>
+>>>>>>> c855f432dc7ea674f7a356f86ebcfefbc1bac3d0
     <url/>
     <licenses>
         <license/>
@@ -71,6 +81,16 @@
             <artifactId>spring-boot-starter-webmvc-test</artifactId>
             <scope>test</scope>
         </dependency>
+<<<<<<< HEAD
+
+        <!-- https://mvnrepository.com/artifact/com.mysql/mysql-connector-j -->
+        <dependency>
+            <groupId>com.mysql</groupId>
+            <artifactId>mysql-connector-j</artifactId>
+            <version>9.5.0</version>
+        </dependency>
+=======
+>>>>>>> c855f432dc7ea674f7a356f86ebcfefbc1bac3d0
     </dependencies>
 
     <build>
@@ -83,4 +103,7 @@
     </build>
 
 </project>
+<<<<<<< HEAD
+=======
 >>>>>>> ExceptionHandling
+>>>>>>> c855f432dc7ea674f7a356f86ebcfefbc1bac3d0
