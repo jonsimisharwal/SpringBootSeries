@@ -1,3 +1,60 @@
+
+<<<<<<< HEAD
+
+=======
+>>>>>>> e8b2d6b767fb455097972f55c2b90fcb9f4e0cf2
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 3704f0a18a0e402613b8c70515d0da4ee0b12d1a
+<<<<<<< HEAD
+>>>>>>> e8b2d6b767fb455097972f55c2b90fcb9f4e0cf2
+=======
+>>>>>>> e8b2d6b767fb455097972f55c2b90fcb9f4e0cf2
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+.kotlin
+
+### IntelliJ IDEA ###
+.idea/modules.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/libraries/
+*.iws
+*.iml
+*.ipr
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> e8b2d6b767fb455097972f55c2b90fcb9f4e0cf2
+=======
+.idea/
+*.iml
+
+
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+<<<<<<< HEAD
+.kotlin
+=======
+>>>>>>> 9ba76c44f55c96fcfcef2c08f23a5e1245ac1bc5
+>>>>>>> 07875eef311882ec4fa6eaf1759da896e96dca98
+>>>>>>> 3704f0a18a0e402613b8c70515d0da4ee0b12d1a
+<<<<<<< HEAD
+>>>>>>> e8b2d6b767fb455097972f55c2b90fcb9f4e0cf2
+=======
+>>>>>>> e8b2d6b767fb455097972f55c2b90fcb9f4e0cf2
+
+### Eclipse ###
+=======
+>>>>>>> c855f432dc7ea674f7a356f86ebcfefbc1bac3d0
 HELP.md
 target/
 .mvn/wrapper/maven-wrapper.jar
@@ -5,6 +62,10 @@ target/
 !**/src/test/**/target/
 
 ### STS ###
+<<<<<<< HEAD
+=======
+>>>>>>> ExceptionHandling
+>>>>>>> c855f432dc7ea674f7a356f86ebcfefbc1bac3d0
 .apt_generated
 .classpath
 .factorypath
@@ -12,12 +73,39 @@ target/
 .settings
 .springBeans
 .sts4-cache
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> e8b2d6b767fb455097972f55c2b90fcb9f4e0cf2
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+>>>>>>> 07875eef311882ec4fa6eaf1759da896e96dca98
+>>>>>>> 3704f0a18a0e402613b8c70515d0da4ee0b12d1a
+<<<<<<< HEAD
+>>>>>>> e8b2d6b767fb455097972f55c2b90fcb9f4e0cf2
+=======
+>>>>>>> e8b2d6b767fb455097972f55c2b90fcb9f4e0cf2
+=======
+>>>>>>> c855f432dc7ea674f7a356f86ebcfefbc1bac3d0
 
 ### IntelliJ IDEA ###
 .idea
 *.iws
 *.iml
 *.ipr
+<<<<<<< HEAD
+=======
+>>>>>>> ExceptionHandling
+>>>>>>> c855f432dc7ea674f7a356f86ebcfefbc1bac3d0
 
 ### NetBeans ###
 /nbproject/private/
@@ -25,9 +113,47 @@ target/
 /dist/
 /nbdist/
 /.nb-gradle/
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+=======
+<<<<<<< HEAD
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+=======
+>>>>>>> 07875eef311882ec4fa6eaf1759da896e96dca98
+>>>>>>> 3704f0a18a0e402613b8c70515d0da4ee0b12d1a
+>>>>>>> e8b2d6b767fb455097972f55c2b90fcb9f4e0cf2
+=======
+>>>>>>> 07875eef311882ec4fa6eaf1759da896e96dca98
+>>>>>>> 3704f0a18a0e402613b8c70515d0da4ee0b12d1a
+>>>>>>> e8b2d6b767fb455097972f55c2b90fcb9f4e0cf2
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+=======
+>>>>>>> c855f432dc7ea674f7a356f86ebcfefbc1bac3d0
 build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
 ### VS Code ###
 .vscode/
+<<<<<<< HEAD
+=======
+>>>>>>> ExceptionHandling
+>>>>>>> c855f432dc7ea674f7a356f86ebcfefbc1bac3d0
