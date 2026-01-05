@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Main" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="25" />
+    <option name="MAIN_CLASS_NAME" value="basics.Main" />
+    <module name="jonsi24" />
+    <option name="VM_PARAMETERS" value="--enable-preview" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
