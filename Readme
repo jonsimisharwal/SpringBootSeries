@@ -1,0 +1,48 @@
+# Banking Management System
+
+A backend Banking Management application developed using Java and Spring Boot.  
+The project provides REST APIs for managing bank accounts, transactions, and customer operations.
+
+## 🚀 Features
+
+- Create Bank Account
+- Deposit Money
+- Withdraw Money
+- Check Account Balance
+- Transaction Management
+- Exception Handling
+- REST API Architecture
+- Layered Architecture Implementation
+
+---
+
+## 🛠️ Tech Stack
+
+- Java
+- Spring Boot
+- Spring Data JPA
+- Hibernate
+- MySQL
+- Maven
+- Postman
+- Git & GitHub
+
+---
+## 🏗️ Architecture Diagram
+
+![Banking Management System Architecture]
+
+## 📂 Project Architecture
+
+
+The project follows layered architecture:
+
+```text
+Controller Layer
+    ↓
+Service Layer
+    ↓
+Repository Layer
+    ↓
+Database
+
