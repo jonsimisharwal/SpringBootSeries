@@ -30,7 +30,7 @@ The project provides REST APIs for managing bank accounts, transactions, and cus
 ---
 ## 🏗️ Architecture Diagram
 
-![Banking Management System Architecture]
+![Banking Management System Architecture](BankingArchitecture.png)
 
 ## 📂 Project Architecture
 
